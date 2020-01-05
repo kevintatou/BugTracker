@@ -1,0 +1,7 @@
+.vscode/
+bin/
+wwwroot/
+obj/
+frontend/
+
+
