@@ -1,0 +1,18 @@
+{
+  "name": "bt-frontend",
+  "version": "0.1.0",
+  "description": "Bug tracker frontend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bug",
+    "tracker"
+  ],
+  "author": "Kevin Tatou",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
