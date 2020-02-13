@@ -1,3 +1,6 @@
-dotnet watch run &
 cd frontend/
-npm start
+npm start &
+cd ..
+dotnet run watch &
+postman &
+
